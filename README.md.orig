@@ -1,8 +1,10 @@
 # tournamentsort
 Hallo von PC1
 
-Oh, eine neue Zwischenzeile!
-
+<<<<<<< HEAD
 Hier auch eine Zwischenzeile, aber eine andere!
+=======
+Oh, eine neue Zwischenzeile!
+>>>>>>> ddd7f6e8e69c15f81671fc5fe96b3da4c1cc1886
 
 Neue Nachricht von PC1
