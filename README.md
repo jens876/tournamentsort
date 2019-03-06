@@ -1,4 +1,4 @@
 # tournamentsort
-Hallo vom PC1
+Hallo von PC1
 
 Neue Nachricht von PC1
